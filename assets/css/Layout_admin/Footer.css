@@ -1,0 +1,13 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+footer{
+	background: #222;
+}
+
+footer .container #text-footer{
+	line-height: 80px;
+	color: #666;
+}

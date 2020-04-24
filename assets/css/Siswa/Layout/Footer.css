@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+footer{
+	overflow: hidden;
+	background: #222;
+	color: #ddd;
+}
+
+footer .container p{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}

@@ -1,0 +1,13 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#container-kotak{
+	margin-top: 150px;
+}
+
+#container-kotak .card{
+	box-shadow: 0 0 30px rgba(2,2,2,.3);
+	padding-bottom: 40px;
+}
